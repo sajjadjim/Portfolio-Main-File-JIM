@@ -1,0 +1,8 @@
+@import "tailwindcss";
+/* font import */
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    font-family:  "Inter", serif;
+}
+
